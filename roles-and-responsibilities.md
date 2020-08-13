@@ -4,35 +4,39 @@
 
 These individuals have committed to act on behalf of PyRVA in the following capacity:
 
-| Role                                          | Organizer                                     |
-|:---------------------------------------------:|:---------------------------------------------:|
-| [Partnership](#partnership)                   | [Chris May](https://github.com/Chris-May)     |
-| [Community Engagement](#community-engagement) | [Brian Cohan](https://github.com/briancohan)  |
-| [Operations](#operations)                     | [Mike Alfare](https://github.com/mikealfare)  |
-| [Infrastructure](#infrastructure)             | [Andrew Picciano](https://github.com/drewsp7) |
+| Component                         | Member(s)                                     |
+|-----------------------------------|-----------------------------------------------|
+| [Partnerships](#partnerships)     | [Chris May](https://github.com/Chris-May)     |
+| [Administration](#administration) | [Mike Alfare](https://github.com/mikealfare), [Brian Cohan](https://github.com/briancohan)  |
+| [Lecture Night](#lecture-night)   | [Chris May](https://github.com/Chris-May)     |
+| [Coding Night](#coding-night)     | [Brian Cohan](https://github.com/briancohan)  |
+| [PyRVA.org](#pyrvaorg)            | [Andrew Picciano](https://github.com/drewsp7), [Mike Alfare](https://github.com/mikealfare) |
 
 ## Responsibilities
 
-#### Partnership
+#### Partnerships
+
+- Manage PyRVA engagements with external partners
+   - PSF
+   - JetBrains
+
+#### Administration
+
+- Set goals for growing PyRVA
+- Manage action items to achieve PyRVA goals
+- Facilitate organizer meetings
+- Manage PyRVA's digital assets
+
+#### Lecture Night
 
 - Host monthly Lecture Night engagements
 - Solicit presenters from across the industry for Lecture Night
-- Identify content for Lecture Night
-- Manage PyRVA engagements with external partners (e.g. PSF)
 
-#### Community Engagement
+#### Coding Night
 
 - Host monthly Coding Night engagements
-- Develop content for Coding Night
-- Identify valuable member-facing assets and manage collective asset pool
+- Identify and develop content for Coding Night
 
-#### Operations
-
-- Facilitate organizer meetings
-- Consolidate action items from multiple areas of responsibility into PyRVA objectives
-- Work with organizers within their area of responsibility to focus effort on PyRVA objectives
-
-#### Infrastructure
+#### PyRVA.org
 
 - Develop PyRVA.org as the front door of PyRVA
-- Tie member-facing assets together to ensure a consistent member experience
