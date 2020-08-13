@@ -6,8 +6,6 @@ The following guidelines are followed when contributing to a code base in the Py
 - Python formatting follows [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 - Repository names:
     - Repository names are hyphen delimited
-    - Brief is better than verbose (e.g., exclude unnecessary information, such as dates)
+    - Simple is better than complex (e.g., exclude unnecessary information, such as dates)
 - Repository branches:
-    - All repositories have a main branch called "main"
     - The main branch is protected and may only be altered via a pull request
-    - The lowest level consolidated branch is the default branch (generally main)
