@@ -6,7 +6,7 @@
 |-----------------------------------------------|-----------------------------------------------|
 | [Organizer](#organizer)                       | [Chris May](https://github.com/Chris-May)     |
 | [Co-Organizer](#co-organizer)                 | [Mike Alfare](https://github.com/mikealfare), [Brian Cohan](https://github.com/briancohan)  |
-| [Assistant Organizer](#assistant-organizer)   | [Andrew Elgert](https://github.com/elgertam), [Andrew Picciano](https://github.com/drewsp7), [Brian West](https://github.com/Chris-May), [Elizabeth Watkins](https://github.com/justworms) |
+| [Assistant Organizer](#assistant-organizer)   | [Andrew Elgert](https://github.com/elgertam), [Andrew Picciano](https://github.com/drewsp7), [Brian West](https://github.com/Chris-May), [Elizabeth Watkins](https://github.com/justworms), [Robert Blake](https://github.com/radiorobert) |
 | [Event Organizer](#event-organizer)           | [Himanshu Bhardwaj](https://github.com/himanbhard) |
 
 ### Organizer
