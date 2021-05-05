@@ -6,8 +6,8 @@
 |-----------------------------------------------|-----------------------------------------------|
 | [Organizer](#organizer)                       | [Chris May](https://github.com/Chris-May)     |
 | [Co-Organizer](#co-organizer)                 | [Mike Alfare](https://github.com/mikealfare), [Brian Cohan](https://github.com/briancohan)  |
-| [Assistant Organizer](#assistant-organizer)   | [Andrew Elgert](https://github.com/elgertam), [Andrew Picciano](https://github.com/drewsp7), [Brian West](https://github.com/Chris-May), [Elizabeth Watkins](https://github.com/justworms), [Robert Blake](https://github.com/radiorobert) |
-| [Event Organizer](#event-organizer)           | [Himanshu Bhardwaj](https://github.com/himanbhard) |
+| [Assistant Organizer](#assistant-organizer)   | [Andrew Elgert](https://github.com/elgertam), [Andrew Picciano](https://github.com/drewsp7), [Robert Blake](https://github.com/radiorobert) |
+| [Event Organizer](#event-organizer)           | |
 
 ### Organizer
 
@@ -28,7 +28,7 @@ Assist the Organizer in pursuing the goals and development of PyRVA. Co-organize
 - Meetup: Assistant Organizer
 - Github: Member
 
-The assistant organizers will assist the Organizer and Co-Organizer(s) in growing PyRVA. Assistant Organizers will have access to all the tools used by the Organizer and Co-Organizers. Elevated privileges on PyRVA's digital assets will be granted on a case by case basis. Assistant Organizers will be able to create and modify events on Meetup. 
+The assistant organizers will assist the Organizer and Co-Organizer(s) in growing PyRVA. Assistant Organizers will have access to all the tools used by the Organizer and Co-Organizers. Elevated privileges on PyRVA's digital assets will be granted on a case by case basis. Assistant Organizers will be able to create and modify events on Meetup.
 
 ### Event Organizer
 
